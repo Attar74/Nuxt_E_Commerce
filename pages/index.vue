@@ -1,6 +1,5 @@
 <template>
-    <div>
-        <app-header />
+    <div>        
         <p>Home</p>
     </div>
 </template>

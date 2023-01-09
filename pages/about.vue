@@ -1,11 +1,12 @@
 <template>
     <div>
         <p>About</p>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque iusto, modi expedita officiis mollitia consectetur, ab at corporis esse, maxime exercitationem laboriosam magnam dolores consequatur praesentium sapiente voluptatum ullam reprehenderit.</p>
+        <div> {{  data  }}</div>
     </div>
 </template>
 
 <script setup>
+// const { data } = await useFetch('/api/currency/GBP')
 
 </script>
 
